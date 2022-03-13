@@ -1,7 +1,5 @@
 ---
 
----
-
 # Welcome to Zixuan's Org
 
 Hi, you can call me Zixuan.
