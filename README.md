@@ -28,5 +28,5 @@ https://doi.org/10.1117/12.2577473
 
 Now, I am working on big data analysis based on Spark. We may study together if you are keen on it as well.
 
-Glad to meet you in Shenzhen next year!
+Glad to meet you in Shenzhen!
 
